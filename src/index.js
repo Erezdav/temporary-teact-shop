@@ -8,9 +8,7 @@ import { FilterProvider } from "./context/filter_context";
 import { CartProvider } from "./context/cart_context";
 import { UserProvider } from "./context/user_context";
 import { Auth0Provider } from "@auth0/auth0-react";
-//domain dev-o08fw8wpm84t57j5.us.auth0.com
-//secret fRhjKAaCDHlthUVzCLZ5cjixwuty4gTes_IYc-uBBId2wlaVWai7HqmqRVVJWE5Q
-//client id  C32B0DpQP3AAu2DWLXdVFKQNClELOu6T
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
